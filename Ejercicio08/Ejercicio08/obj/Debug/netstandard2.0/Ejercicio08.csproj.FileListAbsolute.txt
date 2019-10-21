@@ -1,0 +1,17 @@
+C:\Users\anton\source\repos\Ejercicio08\Ejercicio08\Ejercicio08\obj\Debug\netstandard2.0\Ejercicio08.csprojAssemblyReference.cache
+C:\Users\anton\source\repos\Ejercicio08\Ejercicio08\Ejercicio08\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\anton\source\repos\Ejercicio08\Ejercicio08\Ejercicio08\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\anton\source\repos\Ejercicio08\Ejercicio08\Ejercicio08\obj\Debug\netstandard2.0\Views\CommandDemo.xaml.g.cs
+C:\Users\anton\source\repos\Ejercicio08\Ejercicio08\Ejercicio08\obj\Debug\netstandard2.0\Views\InteractiveDemo.xaml.g.cs
+C:\Users\anton\source\repos\Ejercicio08\Ejercicio08\Ejercicio08\obj\Debug\netstandard2.0\Views\Operaciones.xaml.g.cs
+C:\Users\anton\source\repos\Ejercicio08\Ejercicio08\Ejercicio08\obj\Debug\netstandard2.0\Views\SimpleDemo.xaml.g.cs
+C:\Users\anton\source\repos\Ejercicio08\Ejercicio08\Ejercicio08\obj\Debug\netstandard2.0\Ejercicio08.AssemblyInfoInputs.cache
+C:\Users\anton\source\repos\Ejercicio08\Ejercicio08\Ejercicio08\obj\Debug\netstandard2.0\Ejercicio08.AssemblyInfo.cs
+C:\Users\anton\source\repos\Ejercicio08\Ejercicio08\Ejercicio08\bin\Debug\netstandard2.0\Ejercicio08.deps.json
+C:\Users\anton\source\repos\Ejercicio08\Ejercicio08\Ejercicio08\bin\Debug\netstandard2.0\Ejercicio08.dll
+C:\Users\anton\source\repos\Ejercicio08\Ejercicio08\Ejercicio08\bin\Debug\netstandard2.0\ref\Ejercicio08.dll
+C:\Users\anton\source\repos\Ejercicio08\Ejercicio08\Ejercicio08\bin\Debug\netstandard2.0\Ejercicio08.pdb
+C:\Users\anton\source\repos\Ejercicio08\Ejercicio08\Ejercicio08\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\anton\source\repos\Ejercicio08\Ejercicio08\Ejercicio08\obj\Debug\netstandard2.0\Ejercicio08.dll
+C:\Users\anton\source\repos\Ejercicio08\Ejercicio08\Ejercicio08\obj\Debug\netstandard2.0\ref\Ejercicio08.dll
+C:\Users\anton\source\repos\Ejercicio08\Ejercicio08\Ejercicio08\obj\Debug\netstandard2.0\Ejercicio08.pdb
